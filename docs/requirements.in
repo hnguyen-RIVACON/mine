@@ -1,0 +1,4 @@
+mkdocs
+mkdocstrings[python]
+mkdocstrings[vba]
+markdown-include
